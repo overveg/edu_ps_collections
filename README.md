@@ -1,1 +1,1 @@
-# edu_ps_collections
+# plural_collections
